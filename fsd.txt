@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Documento...</title>
+</head>
+<body>
+    <h2> U M ...</h2>
+<p> la oferta... </p>
+<a> oferta de ...</a>
+</body>
+</html>
+
